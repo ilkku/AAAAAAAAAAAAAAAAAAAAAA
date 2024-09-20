@@ -1,0 +1,99 @@
+@font-face{
+    src:url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100&display=swap');
+    font-family: 'Noto serif', serif;
+}
+h1 span{color: rgb(208, 10, 10);
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Noto serif', serif;
+    background-color: black;
+    margin: auto;
+    border: black;
+}
+h2 span{color: rgb(208, 10, 10);
+    font-size: 40px;
+    font-family: 'Noto serif', serif;
+    text-align: center;
+    background-color: black;
+}
+p span{color: #F0ECE5;
+    font-size: 25px;
+    font-family: 'Noto serif', serif;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.p2 span{
+    font-size: 25px;
+    font-family: 'Noto serif', serif;
+    text-align: center;
+    color: #F0ECE5;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(0, 0, blue);
+}
+.cat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.text{
+    text-align: center;
+}
+body{
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    background-image: url("wp12070371.png");
+    background-color: #cccccc;
+}
+footer span{
+    color: rgb(136, 8, 8);
+    font-size: 20px;
+    font-family: 'Noto serif', serif;
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: black;
+}
+.wiki{
+    color: rgb(165, 12, 12);
+    text-align: left;
+}
+.nioh2web{
+    text-align: center;
+    color: rgb(165, 12, 12);
+}
+.nioh1web{
+    text-align: right;
+    color: rgb(165, 12, 12);
+}
+div.background {
+  text-align: center;
+  width: auto;
+  }
+  div.transbox {
+    margin: 30px;
+    background-color:  rgba(0, 0, 0, 0.6);
+    border: 1px solid black;
+  }
+  div.transbox p {
+    margin:auto;
+    font-weight: bold;
+    color: #F0ECE5;
+    opacity: 1;
+  }
+  .col-sm-12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#headerPopup {
+    max-width: 100%;
+}

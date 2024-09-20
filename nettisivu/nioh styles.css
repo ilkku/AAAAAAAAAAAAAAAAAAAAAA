@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Noto Sans Georgian', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100&family=Noto+Serif:wght@100&display=swap');
+  }
+  h1 span{color: rgb(208, 10, 10);
+    font-size: 40px;
+    font-family:'noto sans Georgian', sans-serif;
+    text-align: center;
+    background-color: black;
+    
+}
+h2 span{
+    color: rgb(208, 10, 10);
+    font-size: 40px;
+    font-family:'noto sans Georgian', sans-serif;
+    text-align: center;
+}
+header{color: rgb(208, 10, 10);
+    text-align: center;
+}
+p span{color: gold;
+    font-size: 25px;
+    font-family:'noto sans Georgian', sans-serif;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: black;
+}
+.p2 span{
+    font-size: 18px;
+    font-family:'noto sans Georgian', sans-serif;
+    text-align: center;
+    color: rgb(255, 106, 14);
+    width: 50%;
+    margin: auto;
+    background-color: black;
+}
+h3 span{
+    font-size: 30px;
+    font-family:'noto sans Georgian', sans-serif;
+    text-align: center;
+    color: rgb(255, 245, 46);
+    width: 50%;
+    margin: auto;
+}
+.cat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body{
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+    background-image: url("1278713.jpg");
+    background-color: #cccccc;
+}
+footer {
+    color: rgb(247, 8, 8);
+    font-size: 20px;
+    font-family: 'noto sans Georgian', sans-serif;
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.wiki{
+    color: rgb(247, 8, 8);
+    text-align: left;
+}
+.wolongweb{
+    text-align: center;
+    color: rgb(247, 8, 8);
+}
+.nioh1web{
+    text-align: right;
+    color: rgb(247, 8, 8);
+}
+ul{
+    color: #F0ECE5;
+    font-size: 25px;
+    font-family:'noto sans Georgian', sans-serif;
+}
+div.cont{
+    text-align: center;
+  }
+  
+  ul.DLC{
+    display: inline-block;
+    text-align: left;
+  }
+.text{
+    text-align: center;
+}
+.dlcwiki{
+    color: mediumvioletred;
+}
+img{
+    height: 10%;
+    width: 10%;
+}
+.col-sm-12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#headerPopup {
+    max-width: 100%;
+}
