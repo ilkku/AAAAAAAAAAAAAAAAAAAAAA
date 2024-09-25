@@ -1,0 +1,35 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.wrappera {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.wrapper div {
+    width: 200px; /* Määrittää jokaisen divin leveyden */
+    height: 200px;
+}
+
+.wrappera div {
+    width: 250px; /* Määrittää jokaisen divin leveyden */
+    height: 100px;
+}
+
+#div1, #div2, #div3, #div4, #div5{
+    background-color: red;
+    margin-left: 30px;
+}
+
+#diva1, #diva2, #diva3, #diva4, #diva5{
+    background-color: olive;
+    margin-right: 20px;
+}

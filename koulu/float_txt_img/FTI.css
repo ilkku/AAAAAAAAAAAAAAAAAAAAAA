@@ -1,0 +1,13 @@
+.container {
+    overflow: auto; 
+}
+
+.float-image {
+    float: left; 
+    margin-right: 15px; 
+    height: 40%;
+    width: 70%;
+}
+.float-text {
+    overflow: hidden; 
+}
